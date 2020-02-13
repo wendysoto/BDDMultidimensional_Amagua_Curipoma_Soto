@@ -17,6 +17,7 @@ demás.
 
 -----------------------------------------------------------------------------------------------------------
 A. Objetivos Generales:
+
 Nuestro principal objetivo es la aplicación de los conocimientos aprendidos durante todo el semestre, conocer acerca de las diferentes bases de datos que existen y lograr
 poder unir estas en una sola para trabajar con datos mas completos.
 
