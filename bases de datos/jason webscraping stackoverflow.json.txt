@@ -1,0 +1,5805 @@
+{
+	"posts": [
+		{
+			"thread": {
+				"uuid": "1cad8d902b4daf134f25a63b7c17df85bc581871",
+				"url": "https://stackoverflow.com/questions/59711203/giving-opacity-to-image-making-the-text-blur-in-css",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "html - giving opacity to image making the text blur in css",
+				"title_full": "html - giving opacity to image making the text blur in css - Stack Overflow",
+				"published": "2020-01-13T07:55:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "bfd1726579be8bc172e1ba992ea2d204a11a9779",
+			"url": "https://stackoverflow.com/questions/59711203/giving-opacity-to-image-making-the-text-blur-in-css#answer-59711281",
+			"ord_in_thread": 1,
+			"author": "Vahid Akhtar",
+			"published": "2020-01-13T08:04:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:37.005+02:00",
+			"text": "Are you looking like this?\n.sip { z-index: 1; width: 90%; margin: 0px auto; text-transform: uppercas..."
+		},
+		{
+			"thread": {
+				"uuid": "1cad8d902b4daf134f25a63b7c17df85bc581871",
+				"url": "https://stackoverflow.com/questions/59711203/giving-opacity-to-image-making-the-text-blur-in-css",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "html - giving opacity to image making the text blur in css",
+				"title_full": "html - giving opacity to image making the text blur in css - Stack Overflow",
+				"published": "2020-01-13T07:55:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "7790d56e53d9f3a1006cd94202ac1b2ffa4bad45",
+			"url": "https://stackoverflow.com/questions/59711203/giving-opacity-to-image-making-the-text-blur-in-css#105574095",
+			"ord_in_thread": 2,
+			"author": "Vahid Akhtar",
+			"published": "2020-01-13T08:07:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:37.006+02:00",
+			"text": "can you please tell me what you changed in my code"
+		},
+		{
+			"thread": {
+				"uuid": "fc77be2ccc8a233ae7994038618a372aeba4aeb0",
+				"url": "https://stackoverflow.com/questions/59711387/validation-errors-w3c",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "html - validation errors W3c",
+				"title_full": "html - validation errors W3c - Stack Overflow",
+				"published": "2020-01-13T08:40:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.169,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "fc77be2ccc8a233ae7994038618a372aeba4aeb0",
+			"url": "https://stackoverflow.com/questions/59711387/validation-errors-w3c",
+			"ord_in_thread": 0,
+			"author": "Alan M",
+			"published": "2020-01-13T08:40:00.000+02:00",
+			"title": "html - validation errors W3c",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:39.005+02:00",
+			"text": "I am getting the error\nParse Error progid:DXImageTransform.Microsoft.gradient(startColorstr='#007db9..."
+		},
+		{
+			"thread": {
+				"uuid": "660d9c24454c3ee5f5b41b5a9941949b3b146cba",
+				"url": "https://stackoverflow.com/questions/59711191/disable-css-transition-when-phone-changes-orientation-landscape-portrait",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - Disable CSS transition when phone changes orientation (landscape/portrait)",
+				"title_full": "javascript - Disable CSS transition when phone changes orientation (landscape/portrait) - Stack Overflow",
+				"published": "2020-01-13T07:59:00.000+02:00",
+				"replies_count": 4,
+				"participants_count": 5,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.002,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "02558785e980c989fa9a045117d1f7f5fe8efd9d",
+			"url": "https://stackoverflow.com/questions/59711191/disable-css-transition-when-phone-changes-orientation-landscape-portrait#answer-59711339",
+			"ord_in_thread": 1,
+			"author": "Sameer Khan",
+			"published": "2020-01-13T08:11:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:40.009+02:00",
+			"text": "You can make use of css media queries\n@media (orientation: landscape) { }\nRead more here How to set ..."
+		},
+		{
+			"thread": {
+				"uuid": "660d9c24454c3ee5f5b41b5a9941949b3b146cba",
+				"url": "https://stackoverflow.com/questions/59711191/disable-css-transition-when-phone-changes-orientation-landscape-portrait",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - Disable CSS transition when phone changes orientation (landscape/portrait)",
+				"title_full": "javascript - Disable CSS transition when phone changes orientation (landscape/portrait) - Stack Overflow",
+				"published": "2020-01-13T07:59:00.000+02:00",
+				"replies_count": 4,
+				"participants_count": 5,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.002,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "e502d8083d2aa5e87a2fdc2cf584bee54ff3ec20",
+			"url": "https://stackoverflow.com/questions/59711191/disable-css-transition-when-phone-changes-orientation-landscape-portrait#105574190",
+			"ord_in_thread": 2,
+			"author": "anonymous",
+			"published": "2020-01-13T08:13:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:40.014+02:00",
+			"text": "I know about them, but they reference the position, while my problem happens on a change of position..."
+		},
+		{
+			"thread": {
+				"uuid": "660d9c24454c3ee5f5b41b5a9941949b3b146cba",
+				"url": "https://stackoverflow.com/questions/59711191/disable-css-transition-when-phone-changes-orientation-landscape-portrait",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - Disable CSS transition when phone changes orientation (landscape/portrait)",
+				"title_full": "javascript - Disable CSS transition when phone changes orientation (landscape/portrait) - Stack Overflow",
+				"published": "2020-01-13T07:59:00.000+02:00",
+				"replies_count": 4,
+				"participants_count": 5,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.002,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "148e2b996451e4ca2fe3bd91eef0e10fb571d1d8",
+			"url": "https://stackoverflow.com/questions/59711191/disable-css-transition-when-phone-changes-orientation-landscape-portrait#59711191",
+			"ord_in_thread": 3,
+			"author": "71GA asked 1 hour ago",
+			"published": "2020-01-13T08:15:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:40.016+02:00",
+			"text": "On my page I have a:\n<div id=\"id_modal_background\"></div>\nthat is between a modal login window and a..."
+		},
+		{
+			"thread": {
+				"uuid": "660d9c24454c3ee5f5b41b5a9941949b3b146cba",
+				"url": "https://stackoverflow.com/questions/59711191/disable-css-transition-when-phone-changes-orientation-landscape-portrait",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - Disable CSS transition when phone changes orientation (landscape/portrait)",
+				"title_full": "javascript - Disable CSS transition when phone changes orientation (landscape/portrait) - Stack Overflow",
+				"published": "2020-01-13T07:59:00.000+02:00",
+				"replies_count": 4,
+				"participants_count": 5,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.002,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "e1d18e0925c28e9add5d8285a18052c885d0aba8",
+			"url": "https://stackoverflow.com/questions/59711191/disable-css-transition-when-phone-changes-orientation-landscape-portrait#answer-59711374",
+			"ord_in_thread": 4,
+			"author": "Bhargav Tailor",
+			"published": "2020-01-13T08:15:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:40.020+02:00",
+			"text": "You can manage your code like below :\nwindow.addEventListener(\"orientationchange\", function() { if(w..."
+		},
+		{
+			"thread": {
+				"uuid": "bb107f9eb7461ae775ebe426afd0806bc5550877",
+				"url": "https://stackoverflow.com/questions/59710449/custom-element-and-leaflet-and-markers-not-aligning",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - Custom Element and Leaflet and Markers not aligning",
+				"title_full": "javascript - Custom Element and Leaflet and Markers not aligning - Stack Overflow",
+				"published": "2020-01-13T05:56:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "b39f0e08801e5610950a5617392356aa9b2c145d",
+			"url": "https://stackoverflow.com/questions/59710449/custom-element-and-leaflet-and-markers-not-aligning#105574699",
+			"ord_in_thread": 1,
+			"author": "ghybs",
+			"published": "2020-01-13T08:45:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:45.000+02:00",
+			"text": "If your element is not yet in the actual page DOM, Leaflet may still have trouble determining its si..."
+		},
+		{
+			"thread": {
+				"uuid": "b473d3e8c07bf9a81373aa01e8e64fa9c63014d8",
+				"url": "https://stackoverflow.com/questions/59709287/scrolling-performance-slow-on-chrome-android",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "jquery - Scrolling Performance Slow on Chrome Android",
+				"title_full": "jquery - Scrolling Performance Slow on Chrome Android - Stack Overflow",
+				"published": "2020-01-13T08:18:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "b13aa907d385376cff00de7d5648b8ba87cfe09f",
+			"url": "https://stackoverflow.com/questions/59709287/scrolling-performance-slow-on-chrome-android#105573078",
+			"ord_in_thread": 1,
+			"author": "wOxxOm",
+			"published": "2020-01-13T06:44:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:49.000+02:00",
+			"text": "1) Analyze the performance in the devtools profiler , you can run it remotely by connecting to the a..."
+		},
+		{
+			"thread": {
+				"uuid": "77b91ccc2e9dc9014e0c2d728772b2e97d7ecc01",
+				"url": "https://stackoverflow.com/questions/59711102/adding-a-css-preloader-to-dynamic-page-loader",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - Adding a CSS preloader to Dynamic Page loader",
+				"title_full": "javascript - Adding a CSS preloader to Dynamic Page loader - Stack Overflow",
+				"published": "2020-01-13T07:56:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.901,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "e71601ec200b0c38105be6c74791b947fda8aada",
+			"url": "https://stackoverflow.com/questions/59711102/adding-a-css-preloader-to-dynamic-page-loader#59711102",
+			"ord_in_thread": 2,
+			"author": "James Harris asked 1 hour ago",
+			"published": "2020-01-13T08:10:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:52.001+02:00",
+			"text": "so I came across this snippet below which is fantastic at changing my pages within a div. However, I..."
+		},
+		{
+			"thread": {
+				"uuid": "b8526393ff9e06d7179bc5c839b3b801182da843",
+				"url": "https://stackoverflow.com/questions/59711546/classes-set-dynamically-in-the-host-property-of-directive-are-not-being-applie",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "css - Classes set dynamically in the 'host' property of directive are not being applied to the parent template in angular 8",
+				"title_full": "css - Classes set dynamically in the 'host' property of directive are not being applied to the parent template in angular 8 - Stack Overflow",
+				"published": "2020-01-13T08:34:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "b8526393ff9e06d7179bc5c839b3b801182da843",
+			"url": "https://stackoverflow.com/questions/59711546/classes-set-dynamically-in-the-host-property-of-directive-are-not-being-applie",
+			"ord_in_thread": 0,
+			"author": "suvenk",
+			"published": "2020-01-13T08:34:00.000+02:00",
+			"title": "css - Classes set dynamically in the 'host' property of directive are not being applied to the parent template in angular 8",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:54.000+02:00",
+			"text": "I am implementing sorting in an angular 8 app using ng-bootstrap table following the sample here htt..."
+		},
+		{
+			"thread": {
+				"uuid": "726fd3f75c5cbd7d21207c1e809c873f24bb7674",
+				"url": "https://stackoverflow.com/questions/59711591/bring-an-element-to-the-front-on-button-click-using-css",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - Bring an element to the front on button click using CSS",
+				"title_full": "javascript - Bring an element to the front on button click using CSS - Stack Overflow",
+				"published": "2020-01-13T08:38:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "726fd3f75c5cbd7d21207c1e809c873f24bb7674",
+			"url": "https://stackoverflow.com/questions/59711591/bring-an-element-to-the-front-on-button-click-using-css",
+			"ord_in_thread": 0,
+			"author": "Lax_Sam",
+			"published": "2020-01-13T08:38:00.000+02:00",
+			"title": "javascript - Bring an element to the front on button click using CSS",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:57.000+02:00",
+			"text": "front ? you mean on your table ?"
+		},
+		{
+			"thread": {
+				"uuid": "726fd3f75c5cbd7d21207c1e809c873f24bb7674",
+				"url": "https://stackoverflow.com/questions/59711591/bring-an-element-to-the-front-on-button-click-using-css",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - Bring an element to the front on button click using CSS",
+				"title_full": "javascript - Bring an element to the front on button click using CSS - Stack Overflow",
+				"published": "2020-01-13T08:38:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "591badadd5a0d8ae8a552b0175f4bb86b4ce87e4",
+			"url": "https://stackoverflow.com/questions/59711591/bring-an-element-to-the-front-on-button-click-using-css#answer-59711725",
+			"ord_in_thread": 2,
+			"author": "Pedram",
+			"published": "2020-01-13T08:51:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:57.000+02:00",
+			"text": "You need to use position: absolute on your loader and also wrap all contents to a container with rel..."
+		},
+		{
+			"thread": {
+				"uuid": "726fd3f75c5cbd7d21207c1e809c873f24bb7674",
+				"url": "https://stackoverflow.com/questions/59711591/bring-an-element-to-the-front-on-button-click-using-css",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - Bring an element to the front on button click using CSS",
+				"title_full": "javascript - Bring an element to the front on button click using CSS - Stack Overflow",
+				"published": "2020-01-13T08:38:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "cd5a0b649230c453735af9aa1d4ba26e6d61b2c6",
+			"url": "https://stackoverflow.com/questions/59711591/bring-an-element-to-the-front-on-button-click-using-css#105574629",
+			"ord_in_thread": 1,
+			"author": "Pedram",
+			"published": "2020-01-13T08:41:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:56:57.000+02:00",
+			"text": "front ? you mean on your table ?"
+		},
+		{
+			"thread": {
+				"uuid": "539391290fad206f582cf5435b07cd1d8dfc49be",
+				"url": "https://stackoverflow.com/questions/59711433/css-animation-fill-mode-foward-changes-element-opacity",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "css animation-fill-mode foward changes element opacity",
+				"title_full": "css animation-fill-mode foward changes element opacity - Stack Overflow",
+				"published": "2020-01-13T08:22:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "539391290fad206f582cf5435b07cd1d8dfc49be",
+			"url": "https://stackoverflow.com/questions/59711433/css-animation-fill-mode-foward-changes-element-opacity",
+			"ord_in_thread": 0,
+			"author": "devchin",
+			"published": "2020-01-13T08:22:00.000+02:00",
+			"title": "css animation-fill-mode foward changes element opacity",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:57:08.004+02:00",
+			"text": "Having an issue with an image when upon the image finishes its animation and is filled in forwards, ..."
+		},
+		{
+			"thread": {
+				"uuid": "539391290fad206f582cf5435b07cd1d8dfc49be",
+				"url": "https://stackoverflow.com/questions/59711433/css-animation-fill-mode-foward-changes-element-opacity",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "css animation-fill-mode foward changes element opacity",
+				"title_full": "css animation-fill-mode foward changes element opacity - Stack Overflow",
+				"published": "2020-01-13T08:22:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "88d9e3101f8f0797bf76b0205c0558c031e6ad2e",
+			"url": "https://stackoverflow.com/questions/59711433/css-animation-fill-mode-foward-changes-element-opacity#answer-59711610",
+			"ord_in_thread": 1,
+			"author": "answered 16 mins ago",
+			"published": "2020-01-13T08:52:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:57:08.005+02:00",
+			"text": "animation: 0.5 header ease 1.25s;\nthe 0.5 without the time unit is interpreted as the animation-iter..."
+		},
+		{
+			"thread": {
+				"uuid": "bcc032c8cf989bbbf70bf2aa578744741a6cdf1b",
+				"url": "https://stackoverflow.com/questions/59711268/how-to-retain-the-background-color-of-clicked-cards-even-on-refresh",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - How to retain the background color of clicked cards even on refresh?",
+				"title_full": "javascript - How to retain the background color of clicked cards even on refresh? - Stack Overflow",
+				"published": "2020-01-13T08:20:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.571,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "29c0df3ccbe4f50be068aa06316be0d259b876b4",
+			"url": "https://stackoverflow.com/questions/59711268/how-to-retain-the-background-color-of-clicked-cards-even-on-refresh#answer-59711425",
+			"ord_in_thread": 1,
+			"author": "Shivam Mishra",
+			"published": "2020-01-13T08:21:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:57:24.021+02:00",
+			"text": "I preferred you to create a array that hold all ids that have checked and store in cookie. and once ..."
+		},
+		{
+			"thread": {
+				"uuid": "bcc032c8cf989bbbf70bf2aa578744741a6cdf1b",
+				"url": "https://stackoverflow.com/questions/59711268/how-to-retain-the-background-color-of-clicked-cards-even-on-refresh",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - How to retain the background color of clicked cards even on refresh?",
+				"title_full": "javascript - How to retain the background color of clicked cards even on refresh? - Stack Overflow",
+				"published": "2020-01-13T08:20:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.571,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "3a85510c93e5bac683676ca7d2e0694cd4884dec",
+			"url": "https://stackoverflow.com/questions/59711268/how-to-retain-the-background-color-of-clicked-cards-even-on-refresh#105574308",
+			"ord_in_thread": 2,
+			"author": "Shivam Mishra",
+			"published": "2020-01-13T08:22:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:57:24.028+02:00",
+			"text": "But I had used local storage already for that can you say please"
+		},
+		{
+			"thread": {
+				"uuid": "bcc032c8cf989bbbf70bf2aa578744741a6cdf1b",
+				"url": "https://stackoverflow.com/questions/59711268/how-to-retain-the-background-color-of-clicked-cards-even-on-refresh",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "javascript - How to retain the background color of clicked cards even on refresh?",
+				"title_full": "javascript - How to retain the background color of clicked cards even on refresh? - Stack Overflow",
+				"published": "2020-01-13T08:20:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.571,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "2dfe2b805744cf98c93b9f710aa788b084eb53c3",
+			"url": "https://stackoverflow.com/questions/59711268/how-to-retain-the-background-color-of-clicked-cards-even-on-refresh#59711268",
+			"ord_in_thread": 3,
+			"author": "Alan M",
+			"published": "2020-01-13T08:38:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:57:24.032+02:00",
+			"text": "I am having a 6 bootstrap cards as a step in a form wizard and I am having a next button which goes ..."
+		},
+		{
+			"thread": {
+				"uuid": "dd1da78b4faeaa568b5c8f90320f24a7e02f531a",
+				"url": "https://stackoverflow.com/questions/59711085/how-to-fix-one-div-to-the-right-side-of-another",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/css?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'css' Questions - Stack Overflow",
+				"title": "html - How to fix one div to the right side of another?",
+				"title_full": "html - How to fix one div to the right side of another? - Stack Overflow",
+				"published": "2020-01-13T07:43:00.000+02:00",
+				"replies_count": 5,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.956,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "fcc9a35665cffb024e16c27d3965dfb354d46d1a",
+			"url": "https://stackoverflow.com/questions/59711085/how-to-fix-one-div-to-the-right-side-of-another#105574015",
+			"ord_in_thread": 5,
+			"author": "Ali Maleki",
+			"published": "2020-01-13T08:02:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:57:28.001+02:00",
+			"text": "Please add code sample to make this a usable answer"
+		},
+		{
+			"thread": {
+				"uuid": "4571377ba712eebcbd1f0100b78ed5ed698ced9a",
+				"url": "https://stackoverflow.com/questions/59704038/import-sysml-models-with-xml-xmi-format-to-a-graph-database",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/xml?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'xml' Questions - Stack Overflow",
+				"title": "neo4j - Import SysML Models with xml/xmi Format to a Graph database",
+				"title_full": "neo4j - Import SysML Models with xml/xmi Format to a Graph database - Stack Overflow",
+				"published": "2020-01-12T21:18:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 1,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "fb3ef0e7efa740b55974ad6e8f1badfe0c1c5610",
+			"url": "https://stackoverflow.com/questions/59704038/import-sysml-models-with-xml-xmi-format-to-a-graph-database#answer-59711437",
+			"ord_in_thread": 1,
+			"author": "Lju",
+			"published": "2020-01-13T08:23:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:57:51.004+02:00",
+			"text": "The APOC Load XML functionality may be of interest to you"
+		},
+		{
+			"thread": {
+				"uuid": "a92aaae557a00bd300951f7eb9a3b198504d1c26",
+				"url": "https://stackoverflow.com/questions/59711249/how-to-get-variable-from-one-ts-file-into-all-other-ts-files-in-angular",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "how to get variable from one ts file into all other ts files in angular",
+				"title_full": "how to get variable from one ts file into all other ts files in angular - Stack Overflow",
+				"published": "2020-01-13T08:02:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.137,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "a92aaae557a00bd300951f7eb9a3b198504d1c26",
+			"url": "https://stackoverflow.com/questions/59711249/how-to-get-variable-from-one-ts-file-into-all-other-ts-files-in-angular",
+			"ord_in_thread": 0,
+			"author": "Num Lock",
+			"published": "2020-01-13T08:02:00.000+02:00",
+			"title": "how to get variable from one ts file into all other ts files in angular",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:20.000+02:00",
+			"text": "Does this answer your question? Where to store global data in Angular?"
+		},
+		{
+			"thread": {
+				"uuid": "a92aaae557a00bd300951f7eb9a3b198504d1c26",
+				"url": "https://stackoverflow.com/questions/59711249/how-to-get-variable-from-one-ts-file-into-all-other-ts-files-in-angular",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "how to get variable from one ts file into all other ts files in angular",
+				"title_full": "how to get variable from one ts file into all other ts files in angular - Stack Overflow",
+				"published": "2020-01-13T08:02:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.137,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "bf3f391ba26cea7c7dbfd5f3d290bee1fc4288b4",
+			"url": "https://stackoverflow.com/questions/59711249/how-to-get-variable-from-one-ts-file-into-all-other-ts-files-in-angular#answer-59711397",
+			"ord_in_thread": 2,
+			"author": "Pavan Nagadiya",
+			"published": "2020-01-13T08:18:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:20.000+02:00",
+			"text": "here the subject-behaviour comes with the subject-behaviour you can get and use the value of the dec..."
+		},
+		{
+			"thread": {
+				"uuid": "a92aaae557a00bd300951f7eb9a3b198504d1c26",
+				"url": "https://stackoverflow.com/questions/59711249/how-to-get-variable-from-one-ts-file-into-all-other-ts-files-in-angular",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "how to get variable from one ts file into all other ts files in angular",
+				"title_full": "how to get variable from one ts file into all other ts files in angular - Stack Overflow",
+				"published": "2020-01-13T08:02:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.137,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "79cfb6acdf92b1f7ec2476b5f4ab34ac4840703f",
+			"url": "https://stackoverflow.com/questions/59711249/how-to-get-variable-from-one-ts-file-into-all-other-ts-files-in-angular#59711249",
+			"ord_in_thread": 1,
+			"author": "Kaustubh Khare",
+			"published": "2020-01-13T08:04:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:20.053+02:00",
+			"text": "I have a variable called name in home.component.ts file, I want to use this variable globally in all..."
+		},
+		{
+			"thread": {
+				"uuid": "a92aaae557a00bd300951f7eb9a3b198504d1c26",
+				"url": "https://stackoverflow.com/questions/59711249/how-to-get-variable-from-one-ts-file-into-all-other-ts-files-in-angular",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "how to get variable from one ts file into all other ts files in angular",
+				"title_full": "how to get variable from one ts file into all other ts files in angular - Stack Overflow",
+				"published": "2020-01-13T08:02:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.137,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "79e03ce2defe685f4a41f62ca238f618ab4c1b0b",
+			"url": "https://stackoverflow.com/questions/59711249/how-to-get-variable-from-one-ts-file-into-all-other-ts-files-in-angular#answer-59711649",
+			"ord_in_thread": 3,
+			"author": "Sandeep Pal",
+			"published": "2020-01-13T08:43:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:20.055+02:00",
+			"text": "Create a service that will be provided in root or app module. Within this you can have the variables..."
+		},
+		{
+			"thread": {
+				"uuid": "4a766eaee341816e0ac9a9b1879b322ce252c98e",
+				"url": "https://stackoverflow.com/questions/59711508/passing-angular-app-url-with-query-parameters-with-other-users",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "routing - Passing angular app URL with query parameters with other users",
+				"title_full": "routing - Passing angular app URL with query parameters with other users - Stack Overflow",
+				"published": "2020-01-13T08:31:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.003,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "4a766eaee341816e0ac9a9b1879b322ce252c98e",
+			"url": "https://stackoverflow.com/questions/59711508/passing-angular-app-url-with-query-parameters-with-other-users",
+			"ord_in_thread": 0,
+			"author": "SUNIL JADHAV",
+			"published": "2020-01-13T08:31:00.000+02:00",
+			"title": "routing - Passing angular app URL with query parameters with other users",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:22.003+02:00",
+			"text": "I have requirement where I want to transfer filters state of page with other user. For example, When..."
+		},
+		{
+			"thread": {
+				"uuid": "4a766eaee341816e0ac9a9b1879b322ce252c98e",
+				"url": "https://stackoverflow.com/questions/59711508/passing-angular-app-url-with-query-parameters-with-other-users",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "routing - Passing angular app URL with query parameters with other users",
+				"title_full": "routing - Passing angular app URL with query parameters with other users - Stack Overflow",
+				"published": "2020-01-13T08:31:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.003,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "d7b16007ef1c3c352e24e5fceefd2959fbe4cf05",
+			"url": "https://stackoverflow.com/questions/59711508/passing-angular-app-url-with-query-parameters-with-other-users#105574624",
+			"ord_in_thread": 1,
+			"author": "Athanasios Kataras",
+			"published": "2020-01-13T08:41:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:22.004+02:00",
+			"text": "Please explain in more detail what you want to achieve and share what you've tried."
+		},
+		{
+			"thread": {
+				"uuid": "4a766eaee341816e0ac9a9b1879b322ce252c98e",
+				"url": "https://stackoverflow.com/questions/59711508/passing-angular-app-url-with-query-parameters-with-other-users",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "routing - Passing angular app URL with query parameters with other users",
+				"title_full": "routing - Passing angular app URL with query parameters with other users - Stack Overflow",
+				"published": "2020-01-13T08:31:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.003,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "d8168370384f28ac840dadbb68f9256693690a15",
+			"url": "https://stackoverflow.com/questions/59711508/passing-angular-app-url-with-query-parameters-with-other-users#answer-59711797",
+			"ord_in_thread": 3,
+			"author": "Shlok Nangia",
+			"published": "2020-01-13T08:56:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:22.004+02:00",
+			"text": "You can do it like this curenturl = window.location.href paramobj = JSON.parse('{\"' + currenturl.spl..."
+		},
+		{
+			"thread": {
+				"uuid": "4a766eaee341816e0ac9a9b1879b322ce252c98e",
+				"url": "https://stackoverflow.com/questions/59711508/passing-angular-app-url-with-query-parameters-with-other-users",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "routing - Passing angular app URL with query parameters with other users",
+				"title_full": "routing - Passing angular app URL with query parameters with other users - Stack Overflow",
+				"published": "2020-01-13T08:31:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.003,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "e1b4be035590e81488f20881b026e2d91eaef105",
+			"url": "https://stackoverflow.com/questions/59711508/passing-angular-app-url-with-query-parameters-with-other-users#answer-59711784",
+			"ord_in_thread": 2,
+			"author": "Athanasios Kataras",
+			"published": "2020-01-13T08:55:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:22.008+02:00",
+			"text": "Check https://angular.io/guide/router#route-parameters\nSet it up in your routing\n{ path: 'hero/:id',..."
+		},
+		{
+			"thread": {
+				"uuid": "602a84f4a7266f3f97b362c4553ad9a9a6c25afc",
+				"url": "https://stackoverflow.com/questions/59708837/how-to-test-angular-service-with-dependencies",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "unit testing - How to test Angular service with dependencies?",
+				"title_full": "unit testing - How to test Angular service with dependencies? - Stack Overflow",
+				"published": "2020-01-13T06:58:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.601,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "24c3149ce3605dbdc5fa0405bc6ad215b0e426d5",
+			"url": "https://stackoverflow.com/questions/59708837/how-to-test-angular-service-with-dependencies#105573749",
+			"ord_in_thread": 3,
+			"author": "Bunyamin Coskuner",
+			"published": "2020-01-13T07:42:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:24.000+02:00",
+			"text": "Thank you, for your answer. Please see the comments under the question. This is only half of the ans..."
+		},
+		{
+			"thread": {
+				"uuid": "602a84f4a7266f3f97b362c4553ad9a9a6c25afc",
+				"url": "https://stackoverflow.com/questions/59708837/how-to-test-angular-service-with-dependencies",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "unit testing - How to test Angular service with dependencies?",
+				"title_full": "unit testing - How to test Angular service with dependencies? - Stack Overflow",
+				"published": "2020-01-13T06:58:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.601,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "6c795f4a6623390c52c3f6bca7a56cd373a1952c",
+			"url": "https://stackoverflow.com/questions/59708837/how-to-test-angular-service-with-dependencies#answer-59710998",
+			"ord_in_thread": 2,
+			"author": "Bunyamin Coskuner",
+			"published": "2020-01-13T07:29:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:24.000+02:00",
+			"text": "Since, you are calling the service within constructor, any test case would be too late to mock the s..."
+		},
+		{
+			"thread": {
+				"uuid": "9290bb73c4e721247ec59f196d13b824bf8cdf80",
+				"url": "https://stackoverflow.com/questions/59708538/nested-reactive-forms-in-angular",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "Nested reactive forms in Angular",
+				"title_full": "Nested reactive forms in Angular - Stack Overflow",
+				"published": "2020-01-13T06:11:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.039,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "61064a06b134da0a8bd62dc958f12502916007bf",
+			"url": "https://stackoverflow.com/questions/59708538/nested-reactive-forms-in-angular#105574681",
+			"ord_in_thread": 3,
+			"author": "anonymous",
+			"published": "2020-01-13T08:44:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:29.000+02:00",
+			"text": "Thank you, was able to solve this with yours and @Eliseo's help"
+		},
+		{
+			"thread": {
+				"uuid": "47c4ef73b207f5bd9cf4ba6b3ebb38d3abf23b91",
+				"url": "https://stackoverflow.com/questions/59708233/increment-data-mongodb-on-each-click-angular-node-as-a-facebook-like-butt",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "node.js - Increment data (MongoDB) on each click (Angular / Node) as a Facebook \"like button\" - not working",
+				"title_full": "node.js - Increment data (MongoDB) on each click (Angular / Node) as a Facebook \"like button\" - not working - Stack Overflow",
+				"published": "2020-01-13T05:25:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "08b7668a337cb9f91cd99393b17c717e565b37c4",
+			"url": "https://stackoverflow.com/questions/59708233/increment-data-mongodb-on-each-click-angular-node-as-a-facebook-like-butt#105574872",
+			"ord_in_thread": 2,
+			"author": "anonymous",
+			"published": "2020-01-13T08:54:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:33.017+02:00",
+			"text": "I try but I still have the same error."
+		},
+		{
+			"thread": {
+				"uuid": "47c4ef73b207f5bd9cf4ba6b3ebb38d3abf23b91",
+				"url": "https://stackoverflow.com/questions/59708233/increment-data-mongodb-on-each-click-angular-node-as-a-facebook-like-butt",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "node.js - Increment data (MongoDB) on each click (Angular / Node) as a Facebook \"like button\" - not working",
+				"title_full": "node.js - Increment data (MongoDB) on each click (Angular / Node) as a Facebook \"like button\" - not working - Stack Overflow",
+				"published": "2020-01-13T05:25:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "9f1cba18eaa3f6b57eb2bfddabbe4522d3292964",
+			"url": "https://stackoverflow.com/questions/59708233/increment-data-mongodb-on-each-click-angular-node-as-a-facebook-like-butt#59708233",
+			"ord_in_thread": 3,
+			"author": "ByRachel asked 9 hours ago",
+			"published": "2020-01-13T08:58:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:33.020+02:00",
+			"text": "I would like to add a \"Like\" button on my app but it doesn't work. I didn't have any particular erro..."
+		},
+		{
+			"thread": {
+				"uuid": "7841e7494022aa6266d404b8d5560713dd0b1c53",
+				"url": "https://stackoverflow.com/questions/59708377/angular-http-post-unable-to-access-returned-value",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "typescript - Angular HTTP Post - Unable to access returned value",
+				"title_full": "typescript - Angular HTTP Post - Unable to access returned value - Stack Overflow",
+				"published": "2020-01-13T05:51:00.000+02:00",
+				"replies_count": 4,
+				"participants_count": 5,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.001,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "6c559b1a1aee0ec9d2bf6597633c13df0877edb4",
+			"url": "https://stackoverflow.com/questions/59708377/angular-http-post-unable-to-access-returned-value#59708377",
+			"ord_in_thread": 4,
+			"author": "Alex H",
+			"published": "2020-01-13T08:18:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:38.004+02:00",
+			"text": "This question already has answers here :"
+		},
+		{
+			"thread": {
+				"uuid": "4bc81e0d5404627226dad5ddffbba92bdc143afd",
+				"url": "https://stackoverflow.com/questions/59711295/guys-please-tell-me-what-is-the-best-way-to-design-responsive-layout-in-angular",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "flexbox - Guys please tell me what is the best way to design responsive layout in angular without adding media queries?",
+				"title_full": "flexbox - Guys please tell me what is the best way to design responsive layout in angular without adding media queries? - Stack Overflow",
+				"published": "2020-01-13T08:06:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.013,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "4bc81e0d5404627226dad5ddffbba92bdc143afd",
+			"url": "https://stackoverflow.com/questions/59711295/guys-please-tell-me-what-is-the-best-way-to-design-responsive-layout-in-angular",
+			"ord_in_thread": 0,
+			"author": "soham raj",
+			"published": "2020-01-13T08:06:00.000+02:00",
+			"title": "flexbox - Guys please tell me what is the best way to design responsive layout in angular without adding media queries?",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:39.000+02:00",
+			"text": "is there any best way to handle responsiveness in angular 8 without adding medai queries??"
+		},
+		{
+			"thread": {
+				"uuid": "b40f079fb5389bcd15cfcacfd9917d9475e81606",
+				"url": "https://stackoverflow.com/questions/59711702/angular-drag-and-drop-not-working-when-dropping-elements-in-n-ary-tree-represent",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "javascript - Angular drag and drop not working when dropping elements in n-ary tree represented using recursive template",
+				"title_full": "javascript - Angular drag and drop not working when dropping elements in n-ary tree represented using recursive template - Stack Overflow",
+				"published": "2020-01-13T08:49:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "b40f079fb5389bcd15cfcacfd9917d9475e81606",
+			"url": "https://stackoverflow.com/questions/59711702/angular-drag-and-drop-not-working-when-dropping-elements-in-n-ary-tree-represent",
+			"ord_in_thread": 0,
+			"author": "Eduardo A EDUARDO Fernandez Di",
+			"published": "2020-01-13T08:49:00.000+02:00",
+			"title": "javascript - Angular drag and drop not working when dropping elements in n-ary tree represented using recursive template",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:42.001+02:00",
+			"text": "I'm new to angular material drag and drop.\nMy app is using an n-ary tree, and since I don't know its..."
+		},
+		{
+			"thread": {
+				"uuid": "d59be55fb5711ad6327a700b2ef8cb4d2b8d6567",
+				"url": "https://stackoverflow.com/questions/59711785/spring-security-oauth-default-login-page-apperas",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "angular - Spring security oauth Default login page apperas",
+				"title_full": "angular - Spring security oauth Default login page apperas - Stack Overflow",
+				"published": "2020-01-13T08:55:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.108,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "d59be55fb5711ad6327a700b2ef8cb4d2b8d6567",
+			"url": "https://stackoverflow.com/questions/59711785/spring-security-oauth-default-login-page-apperas",
+			"ord_in_thread": 0,
+			"author": "Souvik",
+			"published": "2020-01-13T08:55:00.000+02:00",
+			"title": "angular - Spring security oauth Default login page apperas",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:58:54.001+02:00",
+			"text": "I am facing an issue with spring OAUTH security and angular project. My login page is designed in An..."
+		},
+		{
+			"thread": {
+				"uuid": "7b3a6af25771e9919b1a9f0b8b0cc9529caaf1c8",
+				"url": "https://stackoverflow.com/questions/59711720/angular-application-throwing-inline-style-error-due-to-csp-response-header",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "webpack - Angular application throwing \"inline style...\" error due to CSP response header configured on server",
+				"title_full": "webpack - Angular application throwing \"inline style...\" error due to CSP response header configured on server - Stack Overflow",
+				"published": "2020-01-13T08:51:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "7b3a6af25771e9919b1a9f0b8b0cc9529caaf1c8",
+			"url": "https://stackoverflow.com/questions/59711720/angular-application-throwing-inline-style-error-due-to-csp-response-header",
+			"ord_in_thread": 0,
+			"author": "Suresh Negi",
+			"published": "2020-01-13T08:51:00.000+02:00",
+			"title": "webpack - Angular application throwing \"inline style...\" error due to CSP response header configured on server",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:01.002+02:00",
+			"text": "I am working on an angular application.I am working in angular 8 application with CLI.My application..."
+		},
+		{
+			"thread": {
+				"uuid": "3be6ce52a5810a822d006555ece71a812ba3a0e0",
+				"url": "https://stackoverflow.com/questions/59711388/need-a-regular-expression-for-url-in-javascript-which-should-validate-specific-u",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "angular - Need a regular expression for URL in JavaScript which should validate specific urls and also invalidates specific kind of urls",
+				"title_full": "angular - Need a regular expression for URL in JavaScript which should validate specific urls and also invalidates specific kind of urls - Stack Overflow",
+				"published": "2020-01-13T08:20:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "3be6ce52a5810a822d006555ece71a812ba3a0e0",
+			"url": "https://stackoverflow.com/questions/59711388/need-a-regular-expression-for-url-in-javascript-which-should-validate-specific-u",
+			"ord_in_thread": 0,
+			"author": "Athanasios Kataras",
+			"published": "2020-01-13T08:20:00.000+02:00",
+			"title": "angular - Need a regular expression for URL in JavaScript which should validate specific urls and also invalidates specific kind of urls",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:04.000+02:00",
+			"text": "Does this answer your question? What is a good regular expression to match a URL?"
+		},
+		{
+			"thread": {
+				"uuid": "3be6ce52a5810a822d006555ece71a812ba3a0e0",
+				"url": "https://stackoverflow.com/questions/59711388/need-a-regular-expression-for-url-in-javascript-which-should-validate-specific-u",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "angular - Need a regular expression for URL in JavaScript which should validate specific urls and also invalidates specific kind of urls",
+				"title_full": "angular - Need a regular expression for URL in JavaScript which should validate specific urls and also invalidates specific kind of urls - Stack Overflow",
+				"published": "2020-01-13T08:20:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "76d4a29ca223d29f162cd9ba033c3d610dc321f1",
+			"url": "https://stackoverflow.com/questions/59711388/need-a-regular-expression-for-url-in-javascript-which-should-validate-specific-u#59711388",
+			"ord_in_thread": 1,
+			"author": "shiv asked 41 mins ago",
+			"published": "2020-01-13T08:47:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:04.001+02:00",
+			"text": "Closed . This question needs to be more focused . It is not currently accepting answers."
+		},
+		{
+			"thread": {
+				"uuid": "8a686b8d13f7b857582d016f0b1072df0a9f23f1",
+				"url": "https://stackoverflow.com/questions/59711468/angular-file-upload-validation",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "angular file upload validation",
+				"title_full": "angular file upload validation - Stack Overflow",
+				"published": "2020-01-13T08:26:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.001,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "0c931b8aa16f0dd4fc97bf56d493f52887f70eb4",
+			"url": "https://stackoverflow.com/questions/59711468/angular-file-upload-validation#105574709",
+			"ord_in_thread": 1,
+			"author": "Carsten",
+			"published": "2020-01-13T08:45:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:05.001+02:00",
+			"text": "A couple things aren't right. For one, your accept should be accept=\"application/pdf\""
+		},
+		{
+			"thread": {
+				"uuid": "8a686b8d13f7b857582d016f0b1072df0a9f23f1",
+				"url": "https://stackoverflow.com/questions/59711468/angular-file-upload-validation",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/angular?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'angular' Questions - Stack Overflow",
+				"title": "angular file upload validation",
+				"title_full": "angular file upload validation - Stack Overflow",
+				"published": "2020-01-13T08:26:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.001,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "8a686b8d13f7b857582d016f0b1072df0a9f23f1",
+			"url": "https://stackoverflow.com/questions/59711468/angular-file-upload-validation",
+			"ord_in_thread": 0,
+			"author": "gihankumara",
+			"published": "2020-01-13T08:26:00.000+02:00",
+			"title": "angular file upload validation",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:05.002+02:00",
+			"text": "I am trying to validate file upload field. first i try to required field validation. but its now wor..."
+		},
+		{
+			"thread": {
+				"uuid": "edca41a8c102912ea66075d4965c0c7ddf35dca5",
+				"url": "https://stackoverflow.com/questions/59711408/error-unable-to-locate-element-when-trying-to-locate-add-to-cart-button-on-f",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Error 'Unable to locate element' when trying to locate 'Add to Cart' button on Flipkart using Page Object Model and TestNG",
+				"title_full": "java - Error 'Unable to locate element' when trying to locate 'Add to Cart' button on Flipkart using Page Object Model and TestNG - Stack Overflow",
+				"published": "2020-01-13T08:19:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "edca41a8c102912ea66075d4965c0c7ddf35dca5",
+			"url": "https://stackoverflow.com/questions/59711408/error-unable-to-locate-element-when-trying-to-locate-add-to-cart-button-on-f",
+			"ord_in_thread": 0,
+			"author": "pri_test",
+			"published": "2020-01-13T08:19:00.000+02:00",
+			"title": "java - Error 'Unable to locate element' when trying to locate 'Add to Cart' button on Flipkart using Page Object Model and TestNG",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:12.000+02:00",
+			"text": "Please share your HTML."
+		},
+		{
+			"thread": {
+				"uuid": "edca41a8c102912ea66075d4965c0c7ddf35dca5",
+				"url": "https://stackoverflow.com/questions/59711408/error-unable-to-locate-element-when-trying-to-locate-add-to-cart-button-on-f",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Error 'Unable to locate element' when trying to locate 'Add to Cart' button on Flipkart using Page Object Model and TestNG",
+				"title_full": "java - Error 'Unable to locate element' when trying to locate 'Add to Cart' button on Flipkart using Page Object Model and TestNG - Stack Overflow",
+				"published": "2020-01-13T08:19:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "8683e8c8dc4f7486881dc34530078b858abe3992",
+			"url": "https://stackoverflow.com/questions/59711408/error-unable-to-locate-element-when-trying-to-locate-add-to-cart-button-on-f#105574314",
+			"ord_in_thread": 1,
+			"author": "AndiCover",
+			"published": "2020-01-13T08:22:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:12.001+02:00",
+			"text": "Please share your HTML."
+		},
+		{
+			"thread": {
+				"uuid": "edca41a8c102912ea66075d4965c0c7ddf35dca5",
+				"url": "https://stackoverflow.com/questions/59711408/error-unable-to-locate-element-when-trying-to-locate-add-to-cart-button-on-f",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Error 'Unable to locate element' when trying to locate 'Add to Cart' button on Flipkart using Page Object Model and TestNG",
+				"title_full": "java - Error 'Unable to locate element' when trying to locate 'Add to Cart' button on Flipkart using Page Object Model and TestNG - Stack Overflow",
+				"published": "2020-01-13T08:19:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "caadd027873575a10dff05b978cbc53983f452ea",
+			"url": "https://stackoverflow.com/questions/59711408/error-unable-to-locate-element-when-trying-to-locate-add-to-cart-button-on-f#answer-59711645",
+			"ord_in_thread": 2,
+			"author": "Infern0",
+			"published": "2020-01-13T08:43:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:12.002+02:00",
+			"text": "following the error its obvious that there is no such element, you wish to click or wait.\norg.openqa..."
+		},
+		{
+			"thread": {
+				"uuid": "5c4dc94d9169e4667b69f473cef6c7c3c035fb96",
+				"url": "https://stackoverflow.com/questions/59709978/webdriverexception-failed-to-connect-to-binary-firefoxbinaryc-program-files-m",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "WebDriverException: Failed to connect to binary FirefoxBinary(C:\\Program Files\\Mozilla Firefox\\firefox.exe) with GeckoDriver Firefox and Selenium Java",
+				"title_full": "WebDriverException: Failed to connect to binary FirefoxBinary(C:\\Program Files\\Mozilla Firefox\\firefox.exe) with GeckoDriver Firefox and Selenium Java - Stack Overflow",
+				"published": "2020-01-13T08:52:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "5c4dc94d9169e4667b69f473cef6c7c3c035fb96",
+			"url": "https://stackoverflow.com/questions/59709978/webdriverexception-failed-to-connect-to-binary-firefoxbinaryc-program-files-m",
+			"ord_in_thread": 0,
+			"author": "DebanjanB",
+			"published": "2020-01-13T08:52:00.000+02:00",
+			"title": "WebDriverException: Failed to connect to binary FirefoxBinary(C:\\Program Files\\Mozilla Firefox\\firefox.exe) with GeckoDriver Firefox and Selenium Java",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:12.003+02:00",
+			"text": "Using Selenium 3.1.0, firefox latest version 72.0, default firefox driver 2.53.1 here is my code\nSys..."
+		},
+		{
+			"thread": {
+				"uuid": "5c4dc94d9169e4667b69f473cef6c7c3c035fb96",
+				"url": "https://stackoverflow.com/questions/59709978/webdriverexception-failed-to-connect-to-binary-firefoxbinaryc-program-files-m",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "WebDriverException: Failed to connect to binary FirefoxBinary(C:\\Program Files\\Mozilla Firefox\\firefox.exe) with GeckoDriver Firefox and Selenium Java",
+				"title_full": "WebDriverException: Failed to connect to binary FirefoxBinary(C:\\Program Files\\Mozilla Firefox\\firefox.exe) with GeckoDriver Firefox and Selenium Java - Stack Overflow",
+				"published": "2020-01-13T08:52:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "3e516b86ae32c0deba6def6d173097f32c190eb9",
+			"url": "https://stackoverflow.com/questions/59709978/webdriverexception-failed-to-connect-to-binary-firefoxbinaryc-program-files-m#answer-59711800",
+			"ord_in_thread": 1,
+			"author": "DebanjanB",
+			"published": "2020-01-13T08:57:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:12.004+02:00",
+			"text": "This error message...\norg.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBin..."
+		},
+		{
+			"thread": {
+				"uuid": "874880410eb990046062a93944921219870b26c7",
+				"url": "https://stackoverflow.com/questions/59711590/we-are-not-able-to-access-the-was-datasource-through-code-getting-the-below-err",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - we are not able to access the WAS datasource through Code. Getting the below error",
+				"title_full": "java - we are not able to access the WAS datasource through Code. Getting the below error - Stack Overflow",
+				"published": "2020-01-13T08:38:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "874880410eb990046062a93944921219870b26c7",
+			"url": "https://stackoverflow.com/questions/59711590/we-are-not-able-to-access-the-was-datasource-through-code-getting-the-below-err",
+			"ord_in_thread": 0,
+			"author": "Varaprasad",
+			"published": "2020-01-13T08:38:00.000+02:00",
+			"title": "java - we are not able to access the WAS datasource through Code. Getting the below error",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:13.000+02:00",
+			"text": "Lookup failed for the jdbc : javax.naming.CommunicationException: A communication failure occurred w..."
+		},
+		{
+			"thread": {
+				"uuid": "b3a4f83388c91206efaf0f2a092214cc3ac15b70",
+				"url": "https://stackoverflow.com/questions/59711629/how-to-store-files-using-bigqueue",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - How to store files using Bigqueue?",
+				"title_full": "java - How to store files using Bigqueue? - Stack Overflow",
+				"published": "2020-01-13T08:42:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.009,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "a9363c16b46a438244a7319b0fa40290873ee994",
+			"url": "https://stackoverflow.com/questions/59711629/how-to-store-files-using-bigqueue#105574949",
+			"ord_in_thread": 1,
+			"author": "Stephen C",
+			"published": "2020-01-13T08:58:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:14.000+02:00",
+			"text": "From what I can tell, \"Big Queue\" is not a solution for storing, fetching, deleting, moving or renam..."
+		},
+		{
+			"thread": {
+				"uuid": "b3a4f83388c91206efaf0f2a092214cc3ac15b70",
+				"url": "https://stackoverflow.com/questions/59711629/how-to-store-files-using-bigqueue",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - How to store files using Bigqueue?",
+				"title_full": "java - How to store files using Bigqueue? - Stack Overflow",
+				"published": "2020-01-13T08:42:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.009,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "b3a4f83388c91206efaf0f2a092214cc3ac15b70",
+			"url": "https://stackoverflow.com/questions/59711629/how-to-store-files-using-bigqueue",
+			"ord_in_thread": 0,
+			"author": "Prakash Kumar",
+			"published": "2020-01-13T08:42:00.000+02:00",
+			"title": "java - How to store files using Bigqueue?",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:14.000+02:00",
+			"text": "From what I can tell, \"Big Queue\" is not a solution for storing, fetching, deleting, moving or renam..."
+		},
+		{
+			"thread": {
+				"uuid": "1f0e8915a40f7357d6a4ee27f0efc2c68cd75e74",
+				"url": "https://stackoverflow.com/questions/59710782/nosuchmethoderror-when-running-spark-streaming-example-with-kafka",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - NoSuchMethodError when running Spark streaming example with kafka",
+				"title_full": "java - NoSuchMethodError when running Spark streaming example with kafka - Stack Overflow",
+				"published": "2020-01-13T08:29:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.988,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "467eb7a912241004944c0154d5cdcdf218ff8851",
+			"url": "https://stackoverflow.com/questions/59710782/nosuchmethoderror-when-running-spark-streaming-example-with-kafka#59710782",
+			"ord_in_thread": 3,
+			"author": "DennisLi",
+			"published": "2020-01-13T08:34:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:23.000+02:00",
+			"text": "This question already has an answer here :"
+		},
+		{
+			"thread": {
+				"uuid": "1f0e8915a40f7357d6a4ee27f0efc2c68cd75e74",
+				"url": "https://stackoverflow.com/questions/59710782/nosuchmethoderror-when-running-spark-streaming-example-with-kafka",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - NoSuchMethodError when running Spark streaming example with kafka",
+				"title_full": "java - NoSuchMethodError when running Spark streaming example with kafka - Stack Overflow",
+				"published": "2020-01-13T08:29:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.988,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "b233d79f14799ae180e8670e17531f612049c1a2",
+			"url": "https://stackoverflow.com/questions/59710782/nosuchmethoderror-when-running-spark-streaming-example-with-kafka#105574452",
+			"ord_in_thread": 1,
+			"author": "cricket_007",
+			"published": "2020-01-13T08:31:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:23.005+02:00",
+			"text": "Your error seems to suggest your are using Spark with Scala 2.11, not 2.12. Please fix your packages"
+		},
+		{
+			"thread": {
+				"uuid": "1f0e8915a40f7357d6a4ee27f0efc2c68cd75e74",
+				"url": "https://stackoverflow.com/questions/59710782/nosuchmethoderror-when-running-spark-streaming-example-with-kafka",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - NoSuchMethodError when running Spark streaming example with kafka",
+				"title_full": "java - NoSuchMethodError when running Spark streaming example with kafka - Stack Overflow",
+				"published": "2020-01-13T08:29:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.988,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "58e9a3060ec2bab4495fcfabd979a0c90f082298",
+			"url": "https://stackoverflow.com/questions/59710782/nosuchmethoderror-when-running-spark-streaming-example-with-kafka#105574462",
+			"ord_in_thread": 2,
+			"author": "cricket_007",
+			"published": "2020-01-13T08:31:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:23.005+02:00",
+			"text": "The \"streaming application\" is already a JAR in this case. It is in the examples folder. The error i..."
+		},
+		{
+			"thread": {
+				"uuid": "522ddb8e99cbf9960d6b7c175c75d7951706f341",
+				"url": "https://stackoverflow.com/questions/59711466/testcase-for-scheduler-in-lamda-expression",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Testcase for Scheduler in Lamda expression",
+				"title_full": "java - Testcase for Scheduler in Lamda expression - Stack Overflow",
+				"published": "2020-01-13T08:26:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.101,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "522ddb8e99cbf9960d6b7c175c75d7951706f341",
+			"url": "https://stackoverflow.com/questions/59711466/testcase-for-scheduler-in-lamda-expression",
+			"ord_in_thread": 0,
+			"author": "user3428736",
+			"published": "2020-01-13T08:26:00.000+02:00",
+			"title": "java - Testcase for Scheduler in Lamda expression",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:30.002+02:00",
+			"text": "How to write testcase for the below method\n@Override public void configureTasks(ScheduledTaskRegistr..."
+		},
+		{
+			"thread": {
+				"uuid": "f6f122bd43b5606d25296db71b8466fe998f16bc",
+				"url": "https://stackoverflow.com/questions/59711280/define-java-class-attribute-as-properties-file-value",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "intellij idea - Define java class attribute as properties file value",
+				"title_full": "intellij idea - Define java class attribute as properties file value - Stack Overflow",
+				"published": "2020-01-13T08:50:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.092,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "f6f122bd43b5606d25296db71b8466fe998f16bc",
+			"url": "https://stackoverflow.com/questions/59711280/define-java-class-attribute-as-properties-file-value",
+			"ord_in_thread": 0,
+			"author": "Naman",
+			"published": "2020-01-13T08:50:00.000+02:00",
+			"title": "intellij idea - Define java class attribute as properties file value",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:43.000+02:00",
+			"text": "Is it possible to do this. For example i would like to define as below, I want to create new class, ..."
+		},
+		{
+			"thread": {
+				"uuid": "b903a2cd16e26c5e01dce5e5f4dc4b539e0d132d",
+				"url": "https://stackoverflow.com/questions/59711097/is-there-a-way-to-configurate-a-external-ssl-certificate-in-azure-kubernetes-ser",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Is there a way to configurate a external SSL certificate in Azure Kubernetes Service?",
+				"title_full": "java - Is there a way to configurate a external SSL certificate in Azure Kubernetes Service? - Stack Overflow",
+				"published": "2020-01-13T07:41:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.005,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "208df01abc95fd2d7f481593a84f88b0cbdf80dc",
+			"url": "https://stackoverflow.com/questions/59711097/is-there-a-way-to-configurate-a-external-ssl-certificate-in-azure-kubernetes-ser#105574695",
+			"ord_in_thread": 1,
+			"author": "Harsh Manvar",
+			"published": "2020-01-13T08:45:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:47.000+02:00",
+			"text": "maybe you can save your certificate in secret and use that secret in your code. secret will be stori..."
+		},
+		{
+			"thread": {
+				"uuid": "6b25e2196e1cc22d02a50171be432927498f7c57",
+				"url": "https://stackoverflow.com/questions/59711077/questions-about-objectifys-transactionally-enqueued-tasks",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Questions about objectify's transactionally enqueued tasks",
+				"title_full": "java - Questions about objectify's transactionally enqueued tasks - Stack Overflow",
+				"published": "2020-01-13T07:39:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "43251f260262e360e5a93c49e28b75d7706bf9eb",
+			"url": "https://stackoverflow.com/questions/59711077/questions-about-objectifys-transactionally-enqueued-tasks#answer-59711641",
+			"ord_in_thread": 1,
+			"author": "stickfigure",
+			"published": "2020-01-13T08:43:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:49.001+02:00",
+			"text": "1) Yes, if the transaction rolls back no work will be enqueued.\n2) Work is added to the queue as par..."
+		},
+		{
+			"thread": {
+				"uuid": "dae3f298a18a905b75f24ab71739e4e947ad92ba",
+				"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "algorithm - How to print n times integer and string in Java?",
+				"title_full": "algorithm - How to print n times integer and string in Java? - Stack Overflow",
+				"published": "2020-01-13T08:08:00.000+02:00",
+				"replies_count": 6,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "7747fc96976c7c0a2a37a98d3bd4db65bbc3dfbf",
+			"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java#answer-59711457",
+			"ord_in_thread": 2,
+			"author": "answered 34 mins ago",
+			"published": "2020-01-13T08:25:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:50.000+02:00",
+			"text": "Here's my version of your exercise.\nScanner userInput = new Scanner(System.in); System.out.print(\"En..."
+		},
+		{
+			"thread": {
+				"uuid": "dae3f298a18a905b75f24ab71739e4e947ad92ba",
+				"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "algorithm - How to print n times integer and string in Java?",
+				"title_full": "algorithm - How to print n times integer and string in Java? - Stack Overflow",
+				"published": "2020-01-13T08:08:00.000+02:00",
+				"replies_count": 6,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "ab25eb93ca31655e8ba7c9146fbd5af2b76fd244",
+			"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java#answer-59711414",
+			"ord_in_thread": 1,
+			"author": "entpnerd",
+			"published": "2020-01-13T08:20:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:50.001+02:00",
+			"text": "If I was you, I would try writing a program that does the following:\nConvert the input from a string..."
+		},
+		{
+			"thread": {
+				"uuid": "dae3f298a18a905b75f24ab71739e4e947ad92ba",
+				"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "algorithm - How to print n times integer and string in Java?",
+				"title_full": "algorithm - How to print n times integer and string in Java? - Stack Overflow",
+				"published": "2020-01-13T08:08:00.000+02:00",
+				"replies_count": 6,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "b327ac10adf17f34237c20fe724a0eb434b46c9d",
+			"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java#105574821",
+			"ord_in_thread": 5,
+			"author": "EJoshuaS - Reinstate Monica",
+			"published": "2020-01-13T08:51:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:50.001+02:00",
+			"text": "Please don't do the asker's homework for them - it doesn't help anyone. How will they learn anything..."
+		},
+		{
+			"thread": {
+				"uuid": "dae3f298a18a905b75f24ab71739e4e947ad92ba",
+				"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "algorithm - How to print n times integer and string in Java?",
+				"title_full": "algorithm - How to print n times integer and string in Java? - Stack Overflow",
+				"published": "2020-01-13T08:08:00.000+02:00",
+				"replies_count": 6,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "88aa0e079138af2dba88311940152a4f5140bbd1",
+			"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java#answer-59711550",
+			"ord_in_thread": 4,
+			"author": "Nuwan Harshakumara Piyarathna",
+			"published": "2020-01-13T08:34:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:50.002+02:00",
+			"text": "static void printExercise(String str,int targetNumber , int numberOfTimes){ for(int i =0 ;i < number..."
+		},
+		{
+			"thread": {
+				"uuid": "dae3f298a18a905b75f24ab71739e4e947ad92ba",
+				"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "algorithm - How to print n times integer and string in Java?",
+				"title_full": "algorithm - How to print n times integer and string in Java? - Stack Overflow",
+				"published": "2020-01-13T08:08:00.000+02:00",
+				"replies_count": 6,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "677d908be3cbce0eb4b888f19ef05d2fdae0cb2b",
+			"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java#105574369",
+			"ord_in_thread": 3,
+			"author": "EJoshuaS - Reinstate Monica",
+			"published": "2020-01-13T08:25:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:50.003+02:00",
+			"text": "Please don't do the asker's homework for them - you're not helping anyone by doing that. How will th..."
+		},
+		{
+			"thread": {
+				"uuid": "dae3f298a18a905b75f24ab71739e4e947ad92ba",
+				"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "algorithm - How to print n times integer and string in Java?",
+				"title_full": "algorithm - How to print n times integer and string in Java? - Stack Overflow",
+				"published": "2020-01-13T08:08:00.000+02:00",
+				"replies_count": 6,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "fde715042293f83a67b5944077d505cef2d5dadd",
+			"url": "https://stackoverflow.com/questions/59711308/how-to-print-n-times-integer-and-string-in-java#59711308",
+			"ord_in_thread": 6,
+			"author": "Vinotaz",
+			"published": "2020-01-13T08:56:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:50.004+02:00",
+			"text": "Closed . This question needs to be more focused . It is not currently accepting answers."
+		},
+		{
+			"thread": {
+				"uuid": "5947cf2b43af6e4a16fbfbb7e0e14ff73486f0a2",
+				"url": "https://stackoverflow.com/questions/59711713/return-a-apk-file-in-octet-stream-using-rest-web-api-in-spring",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Return a apk file in Octet Stream using Rest Web Api in Spring",
+				"title_full": "java - Return a apk file in Octet Stream using Rest Web Api in Spring - Stack Overflow",
+				"published": "2020-01-13T08:50:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.004,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "5947cf2b43af6e4a16fbfbb7e0e14ff73486f0a2",
+			"url": "https://stackoverflow.com/questions/59711713/return-a-apk-file-in-octet-stream-using-rest-web-api-in-spring",
+			"ord_in_thread": 0,
+			"author": "Rakesh Vasal",
+			"published": "2020-01-13T08:50:00.000+02:00",
+			"title": "java - Return a apk file in Octet Stream using Rest Web Api in Spring",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:51.001+02:00",
+			"text": "I am trying to build a Rest Api in Spring that takes a version number of mobile app in a Java Pojo O..."
+		},
+		{
+			"thread": {
+				"uuid": "244d519ebe052afe7d26547198f4ff137bcc78a8",
+				"url": "https://stackoverflow.com/questions/59711707/facing-issues-in-multi-project-build-using-gradle",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Facing issues in multi project build using gradle",
+				"title_full": "java - Facing issues in multi project build using gradle - Stack Overflow",
+				"published": "2020-01-13T08:50:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "244d519ebe052afe7d26547198f4ff137bcc78a8",
+			"url": "https://stackoverflow.com/questions/59711707/facing-issues-in-multi-project-build-using-gradle",
+			"ord_in_thread": 0,
+			"author": "Farheen Naaz",
+			"published": "2020-01-13T08:50:00.000+02:00",
+			"title": "java - Facing issues in multi project build using gradle",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:53.000+02:00",
+			"text": "I have gradle multi-project(Java) build. My project structure is like below:\nRoot project 'Parent' +..."
+		},
+		{
+			"thread": {
+				"uuid": "244d519ebe052afe7d26547198f4ff137bcc78a8",
+				"url": "https://stackoverflow.com/questions/59711707/facing-issues-in-multi-project-build-using-gradle",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Facing issues in multi project build using gradle",
+				"title_full": "java - Facing issues in multi project build using gradle - Stack Overflow",
+				"published": "2020-01-13T08:50:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "6ae3c8a26a79833c844908ee21aa9cd1712538f9",
+			"url": "https://stackoverflow.com/questions/59711707/facing-issues-in-multi-project-build-using-gradle#105574908",
+			"ord_in_thread": 1,
+			"author": "Mandar Dharurkar",
+			"published": "2020-01-13T08:56:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:53.001+02:00",
+			"text": "is child3 dependent on child 1 only. if yes , u need to remove compile project(':Child2') in gradle ..."
+		},
+		{
+			"thread": {
+				"uuid": "10146ba1ed41524a00dd64100417ed146ae6591e",
+				"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - What is wrong in my bubble sort whit Array List?",
+				"title_full": "java - What is wrong in my bubble sort whit Array List? - Stack Overflow",
+				"published": "2020-01-13T08:28:00.000+02:00",
+				"replies_count": 5,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "10146ba1ed41524a00dd64100417ed146ae6591e",
+			"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list",
+			"ord_in_thread": 0,
+			"author": "hadiRezaee",
+			"published": "2020-01-13T08:28:00.000+02:00",
+			"title": "java - What is wrong in my bubble sort whit Array List?",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:56.000+02:00",
+			"text": "Please do not encourage poor code indenting. Format your code properly before posting an answer"
+		},
+		{
+			"thread": {
+				"uuid": "10146ba1ed41524a00dd64100417ed146ae6591e",
+				"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - What is wrong in my bubble sort whit Array List?",
+				"title_full": "java - What is wrong in my bubble sort whit Array List? - Stack Overflow",
+				"published": "2020-01-13T08:28:00.000+02:00",
+				"replies_count": 5,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "e0f28d4e9327098c0b77d640e598b4fb4eada752",
+			"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list#answer-59711589",
+			"ord_in_thread": 1,
+			"author": "Kalpit",
+			"published": "2020-01-13T08:38:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:56.000+02:00",
+			"text": "Are you sure you should start from 2nd element (j=1) every time? Try j=i . i.e.,\npublic static Array..."
+		},
+		{
+			"thread": {
+				"uuid": "10146ba1ed41524a00dd64100417ed146ae6591e",
+				"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - What is wrong in my bubble sort whit Array List?",
+				"title_full": "java - What is wrong in my bubble sort whit Array List? - Stack Overflow",
+				"published": "2020-01-13T08:28:00.000+02:00",
+				"replies_count": 5,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "8846a06e096ba7e17cda5508ced7171616e01258",
+			"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list#105574735",
+			"ord_in_thread": 2,
+			"author": "Steyrix",
+			"published": "2020-01-13T08:47:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:56.001+02:00",
+			"text": "Please do not encourage poor code indenting. Format your code properly before posting an answer"
+		},
+		{
+			"thread": {
+				"uuid": "10146ba1ed41524a00dd64100417ed146ae6591e",
+				"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - What is wrong in my bubble sort whit Array List?",
+				"title_full": "java - What is wrong in my bubble sort whit Array List? - Stack Overflow",
+				"published": "2020-01-13T08:28:00.000+02:00",
+				"replies_count": 5,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "40bd2570873154ac279a24ed60f20bad751eac87",
+			"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list#105574968",
+			"ord_in_thread": 4,
+			"author": "Kandy",
+			"published": "2020-01-13T08:59:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:56.003+02:00",
+			"text": "As your are using ArrayList then you can also use collection methods to sort your integer ascending ..."
+		},
+		{
+			"thread": {
+				"uuid": "10146ba1ed41524a00dd64100417ed146ae6591e",
+				"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - What is wrong in my bubble sort whit Array List?",
+				"title_full": "java - What is wrong in my bubble sort whit Array List? - Stack Overflow",
+				"published": "2020-01-13T08:28:00.000+02:00",
+				"replies_count": 5,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "5a3ba59d30f885a477c7a89e15ac4463d0cb3ec6",
+			"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list#answer-59711827",
+			"ord_in_thread": 5,
+			"author": "Ankur Gupta",
+			"published": "2020-01-13T08:59:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:56.003+02:00",
+			"text": "You can do sorting like this:\nfor(int out=inputArray.size()-1; out>0; out--){ for(int j=1; j<=out; j..."
+		},
+		{
+			"thread": {
+				"uuid": "10146ba1ed41524a00dd64100417ed146ae6591e",
+				"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - What is wrong in my bubble sort whit Array List?",
+				"title_full": "java - What is wrong in my bubble sort whit Array List? - Stack Overflow",
+				"published": "2020-01-13T08:28:00.000+02:00",
+				"replies_count": 5,
+				"participants_count": 6,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "b785aebb3a531cbc8c51a811c99f57b3b373130c",
+			"url": "https://stackoverflow.com/questions/59711484/what-is-wrong-in-my-bubble-sort-whit-array-list#answer-59711640",
+			"ord_in_thread": 3,
+			"author": "answered 17 mins ago",
+			"published": "2020-01-13T08:50:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:56.003+02:00",
+			"text": "Your swapping code block looked like it was outside of loop, so the only one swap occurred for one i..."
+		},
+		{
+			"thread": {
+				"uuid": "f5c90dd35964b8547f32f9b9e05d91a8e5368fba",
+				"url": "https://stackoverflow.com/questions/59711122/value-not-fetching-from-controller-to-view-jsp-in-spring-boot-2-2-2",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Value not fetching from controller to View JSP in Spring Boot 2.2.2",
+				"title_full": "java - Value not fetching from controller to View JSP in Spring Boot 2.2.2 - Stack Overflow",
+				"published": "2020-01-13T07:55:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.006,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "e0a3e447b6db7cf0d431d78952497dae2a0023cc",
+			"url": "https://stackoverflow.com/questions/59711122/value-not-fetching-from-controller-to-view-jsp-in-spring-boot-2-2-2#105574666",
+			"ord_in_thread": 1,
+			"author": "M. Deinum",
+			"published": "2020-01-13T08:43:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:58.016+02:00",
+			"text": "Welcome to stackoverflow. Please don't post code as images but as actual code (as text using proper ..."
+		},
+		{
+			"thread": {
+				"uuid": "4c38575b0bbd95155ae1287e05aae0cbd05929d5",
+				"url": "https://stackoverflow.com/questions/59711297/is-there-a-way-to-terminate-logback-programatically-so-that-logfile-is-created",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Is there a way to terminate logback programatically, so that logfile is created during runtime?",
+				"title_full": "java - Is there a way to terminate logback programatically, so that logfile is created during runtime? - Stack Overflow",
+				"published": "2020-01-13T08:06:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "4c38575b0bbd95155ae1287e05aae0cbd05929d5",
+			"url": "https://stackoverflow.com/questions/59711297/is-there-a-way-to-terminate-logback-programatically-so-that-logfile-is-created",
+			"ord_in_thread": 0,
+			"author": "BananasInPyjamas",
+			"published": "2020-01-13T08:06:00.000+02:00",
+			"title": "java - Is there a way to terminate logback programatically, so that logfile is created during runtime?",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T08:59:59.025+02:00",
+			"text": "Viewed 20 times 0\nI want to send a mail with the errorlog which logback has created. As i do not kno..."
+		},
+		{
+			"thread": {
+				"uuid": "3cab3429660c06c4b99629e240a30e67d54d13c2",
+				"url": "https://stackoverflow.com/questions/59711376/how-should-i-use-mockito-for-object-inside-objects-and-then-value",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - How should i use mockito for object inside objects and then value",
+				"title_full": "java - How should i use mockito for object inside objects and then value - Stack Overflow",
+				"published": "2020-01-13T08:24:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "3cab3429660c06c4b99629e240a30e67d54d13c2",
+			"url": "https://stackoverflow.com/questions/59711376/how-should-i-use-mockito-for-object-inside-objects-and-then-value",
+			"ord_in_thread": 0,
+			"author": "Ashutosh Sharma",
+			"published": "2020-01-13T08:24:00.000+02:00",
+			"title": "java - How should i use mockito for object inside objects and then value",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:00.029+02:00",
+			"text": "Could you please put some sample code?"
+		},
+		{
+			"thread": {
+				"uuid": "3cab3429660c06c4b99629e240a30e67d54d13c2",
+				"url": "https://stackoverflow.com/questions/59711376/how-should-i-use-mockito-for-object-inside-objects-and-then-value",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - How should i use mockito for object inside objects and then value",
+				"title_full": "java - How should i use mockito for object inside objects and then value - Stack Overflow",
+				"published": "2020-01-13T08:24:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "f0fff3580d67b1f8739692ea273fe166a1337c2b",
+			"url": "https://stackoverflow.com/questions/59711376/how-should-i-use-mockito-for-object-inside-objects-and-then-value#answer-59711681",
+			"ord_in_thread": 1,
+			"author": "Nicktar",
+			"published": "2020-01-13T08:47:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:00.033+02:00",
+			"text": "Since you're writing a unit test and not an integration test, just mock object2 and be done with it...."
+		},
+		{
+			"thread": {
+				"uuid": "3cab3429660c06c4b99629e240a30e67d54d13c2",
+				"url": "https://stackoverflow.com/questions/59711376/how-should-i-use-mockito-for-object-inside-objects-and-then-value",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - How should i use mockito for object inside objects and then value",
+				"title_full": "java - How should i use mockito for object inside objects and then value - Stack Overflow",
+				"published": "2020-01-13T08:24:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "3b9fc0f658adcfaa0a806bed3886c6a87546e6ca",
+			"url": "https://stackoverflow.com/questions/59711376/how-should-i-use-mockito-for-object-inside-objects-and-then-value#59711376",
+			"ord_in_thread": 2,
+			"author": "Nicktar",
+			"published": "2020-01-13T08:48:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:00.036+02:00",
+			"text": "if i have code like this object1.object2.object3 and then object3 returning value. But problem is th..."
+		},
+		{
+			"thread": {
+				"uuid": "a0ce708e52a59450d214751faf5f97c6424837a7",
+				"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - how to validate username and password in android using symbols",
+				"title_full": "java - how to validate username and password in android using symbols - Stack Overflow",
+				"published": "2020-01-13T07:41:00.000+02:00",
+				"replies_count": 7,
+				"participants_count": 7,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "ab8eb45b01f249a604f5a645bb8475f95a00005f",
+			"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols#105574902",
+			"ord_in_thread": 7,
+			"author": "anonymous",
+			"published": "2020-01-13T08:56:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:02.000+02:00",
+			"text": "ok, I'll try first"
+		},
+		{
+			"thread": {
+				"uuid": "a0ce708e52a59450d214751faf5f97c6424837a7",
+				"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - how to validate username and password in android using symbols",
+				"title_full": "java - how to validate username and password in android using symbols - Stack Overflow",
+				"published": "2020-01-13T07:41:00.000+02:00",
+				"replies_count": 7,
+				"participants_count": 7,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "ffc36b4572d2dfcb767c5b68f55e272f8db5518c",
+			"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols#answer-59711319",
+			"ord_in_thread": 6,
+			"author": "answered 50 mins ago",
+			"published": "2020-01-13T08:50:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:02.000+02:00",
+			"text": "I recommend using Regex\npublic static boolean isValidPassword(final String password) { Pattern patte..."
+		},
+		{
+			"thread": {
+				"uuid": "a0ce708e52a59450d214751faf5f97c6424837a7",
+				"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - how to validate username and password in android using symbols",
+				"title_full": "java - how to validate username and password in android using symbols - Stack Overflow",
+				"published": "2020-01-13T07:41:00.000+02:00",
+				"replies_count": 7,
+				"participants_count": 7,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "ef36747a0684c93870b61895f6279d292a3e8f7b",
+			"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols#105574295",
+			"ord_in_thread": 2,
+			"author": "isuru",
+			"published": "2020-01-13T08:21:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:02.003+02:00",
+			"text": "ok, I'll try first"
+		},
+		{
+			"thread": {
+				"uuid": "a0ce708e52a59450d214751faf5f97c6424837a7",
+				"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - how to validate username and password in android using symbols",
+				"title_full": "java - how to validate username and password in android using symbols - Stack Overflow",
+				"published": "2020-01-13T07:41:00.000+02:00",
+				"replies_count": 7,
+				"participants_count": 7,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "cbae63ce30f31e3552ec3643562cceb80e6fdc38",
+			"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols#answer-59711543",
+			"ord_in_thread": 3,
+			"author": "webaddicted",
+			"published": "2020-01-13T08:33:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:02.007+02:00",
+			"text": "Use below regex for minimum eight characters, at least one uppercase letter, one lowercase letter, o..."
+		},
+		{
+			"thread": {
+				"uuid": "a0ce708e52a59450d214751faf5f97c6424837a7",
+				"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - how to validate username and password in android using symbols",
+				"title_full": "java - how to validate username and password in android using symbols - Stack Overflow",
+				"published": "2020-01-13T07:41:00.000+02:00",
+				"replies_count": 7,
+				"participants_count": 7,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "d20035b8d6ff893bad47762f6ed85c279f1d3a75",
+			"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols#105574630",
+			"ord_in_thread": 4,
+			"author": "anonymous",
+			"published": "2020-01-13T08:41:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:02.009+02:00",
+			"text": "ok, I'll try first"
+		},
+		{
+			"thread": {
+				"uuid": "a0ce708e52a59450d214751faf5f97c6424837a7",
+				"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - how to validate username and password in android using symbols",
+				"title_full": "java - how to validate username and password in android using symbols - Stack Overflow",
+				"published": "2020-01-13T07:41:00.000+02:00",
+				"replies_count": 7,
+				"participants_count": 7,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "79e7f98debccb1d92d9e542c8417102b0bd5e054",
+			"url": "https://stackoverflow.com/questions/59711068/how-to-validate-username-and-password-in-android-using-symbols#answer-59711664",
+			"ord_in_thread": 5,
+			"author": "Nagvadiya Vishal",
+			"published": "2020-01-13T08:45:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:02.011+02:00",
+			"text": "Use Regular this Expression: for USERNAME replace $%#@# with special char that you want\nString regul..."
+		},
+		{
+			"thread": {
+				"uuid": "5c8b53d701c4b9dc26c77fecbff3cfcd92db0b89",
+				"url": "https://stackoverflow.com/questions/59711025/showing-single-value-in-piechart-android",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Showing single value in Piechart Android",
+				"title_full": "java - Showing single value in Piechart Android - Stack Overflow",
+				"published": "2020-01-13T07:55:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.15,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "cf7d184705c7cbebae7f9749ded7241865d94dcb",
+			"url": "https://stackoverflow.com/questions/59711025/showing-single-value-in-piechart-android#answer-59711607",
+			"ord_in_thread": 2,
+			"author": "Pravin Dharam",
+			"published": "2020-01-13T08:39:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:03.000+02:00",
+			"text": "It is a circular progress bar. Please check the bellow library I hope it will help you. Circular Pro..."
+		},
+		{
+			"thread": {
+				"uuid": "5c8b53d701c4b9dc26c77fecbff3cfcd92db0b89",
+				"url": "https://stackoverflow.com/questions/59711025/showing-single-value-in-piechart-android",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Showing single value in Piechart Android",
+				"title_full": "java - Showing single value in Piechart Android - Stack Overflow",
+				"published": "2020-01-13T07:55:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.15,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "d0a30ec2a2422f7af32a7056876797977a76423c",
+			"url": "https://stackoverflow.com/questions/59711025/showing-single-value-in-piechart-android#105574753",
+			"ord_in_thread": 3,
+			"author": "anonymous",
+			"published": "2020-01-13T08:48:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:03.000+02:00",
+			"text": "Hi Pravin, Thanks for your response.Will above library will display one single contant value ?"
+		},
+		{
+			"thread": {
+				"uuid": "5c8b53d701c4b9dc26c77fecbff3cfcd92db0b89",
+				"url": "https://stackoverflow.com/questions/59711025/showing-single-value-in-piechart-android",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Showing single value in Piechart Android",
+				"title_full": "java - Showing single value in Piechart Android - Stack Overflow",
+				"published": "2020-01-13T07:55:00.000+02:00",
+				"replies_count": 3,
+				"participants_count": 4,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.15,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "c68ccbe647dd7a6d0a08b18febc078e44ec58480",
+			"url": "https://stackoverflow.com/questions/59711025/showing-single-value-in-piechart-android#59711025",
+			"ord_in_thread": 1,
+			"author": "Naveen asked 1 hour ago",
+			"published": "2020-01-13T08:30:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:03.001+02:00",
+			"text": "I don't understand, how to show single value of Piechart like below Image\nI am referring to below li..."
+		},
+		{
+			"thread": {
+				"uuid": "6595e6f0c2421de05b99eaa00da64c2129e10b2f",
+				"url": "https://stackoverflow.com/questions/59711718/install-metabase-using-cmd",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Install metabase using cmd",
+				"title_full": "java - Install metabase using cmd - Stack Overflow",
+				"published": "2020-01-13T08:51:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.003,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "6595e6f0c2421de05b99eaa00da64c2129e10b2f",
+			"url": "https://stackoverflow.com/questions/59711718/install-metabase-using-cmd",
+			"ord_in_thread": 0,
+			"author": "msc",
+			"published": "2020-01-13T08:51:00.000+02:00",
+			"title": "java - Install metabase using cmd",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:04.000+02:00",
+			"text": "Using windows 10 cmd, i am trying to install metabase.\nnssm install metabase C:\\Program Files\\Java\\j..."
+		},
+		{
+			"thread": {
+				"uuid": "5fdeffbe0db6465bfa1a5a6de2f72bc200ce0cc6",
+				"url": "https://stackoverflow.com/questions/59710963/ignitejdbcthindrive-can-not-start-with-open-jdk-11",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - IgniteJdbcThinDrive can not start with open jdk 11",
+				"title_full": "java - IgniteJdbcThinDrive can not start with open jdk 11 - Stack Overflow",
+				"published": "2020-01-13T07:25:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.992,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "e8d4cbb816111cc7d8fdc7ead89b370a5454347d",
+			"url": "https://stackoverflow.com/questions/59710963/ignitejdbcthindrive-can-not-start-with-open-jdk-11#answer-59711496",
+			"ord_in_thread": 1,
+			"author": "Bilgehan",
+			"published": "2020-01-13T08:29:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:06.000+02:00",
+			"text": ",jvm argument must be given before jar name for that reason when I change my command and put -jar ja..."
+		},
+		{
+			"thread": {
+				"uuid": "3d0bdf141179e765329d607e70908a5a79ab0a2f",
+				"url": "https://stackoverflow.com/questions/59711551/retrytemplate-is-only-executing-once",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - RetryTemplate is only Executing Once",
+				"title_full": "java - RetryTemplate is only Executing Once - Stack Overflow",
+				"published": "2020-01-13T08:34:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "3d0bdf141179e765329d607e70908a5a79ab0a2f",
+			"url": "https://stackoverflow.com/questions/59711551/retrytemplate-is-only-executing-once",
+			"ord_in_thread": 0,
+			"author": "Bad Coder",
+			"published": "2020-01-13T08:34:00.000+02:00",
+			"title": "java - RetryTemplate is only Executing Once",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:11.000+02:00",
+			"text": "In the below method i am using the retry logic, what i am expecting for the first try it should fail..."
+		},
+		{
+			"thread": {
+				"uuid": "fc30588484e5cd1b96823418b7c541bb45cef681",
+				"url": "https://stackoverflow.com/questions/59711630/assigning-a-global-variable-with-an-asynchronous-function",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Assigning a global variable with an Asynchronous function",
+				"title_full": "java - Assigning a global variable with an Asynchronous function - Stack Overflow",
+				"published": "2020-01-13T08:45:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.097,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "fc30588484e5cd1b96823418b7c541bb45cef681",
+			"url": "https://stackoverflow.com/questions/59711630/assigning-a-global-variable-with-an-asynchronous-function",
+			"ord_in_thread": 0,
+			"author": "Joseph Menezes asked 18 mins ago",
+			"published": "2020-01-13T08:45:00.000+02:00",
+			"title": "java - Assigning a global variable with an Asynchronous function",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:12.001+02:00",
+			"text": "Viewed 48 times 0\nHow do I get the data from firebase and then store in a global variable, or in any..."
+		},
+		{
+			"thread": {
+				"uuid": "fc30588484e5cd1b96823418b7c541bb45cef681",
+				"url": "https://stackoverflow.com/questions/59711630/assigning-a-global-variable-with-an-asynchronous-function",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Assigning a global variable with an Asynchronous function",
+				"title_full": "java - Assigning a global variable with an Asynchronous function - Stack Overflow",
+				"published": "2020-01-13T08:45:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.097,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "066a9d39bb26a1ef78a06c05e373335349736f6c",
+			"url": "https://stackoverflow.com/questions/59711630/assigning-a-global-variable-with-an-asynchronous-function#105574946",
+			"ord_in_thread": 1,
+			"author": "a_local_nobody",
+			"published": "2020-01-13T08:58:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:12.003+02:00",
+			"text": "maybe this"
+		},
+		{
+			"thread": {
+				"uuid": "f496b5f27d58a8471f40a14bd31fdef3e83df415",
+				"url": "https://stackoverflow.com/questions/59711780/android-app-terminates-after-certain-time-when-minimized",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/java?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'java' Questions - Stack Overflow",
+				"title": "java - Android app terminates after certain time when minimized",
+				"title_full": "java - Android app terminates after certain time when minimized - Stack Overflow",
+				"published": "2020-01-13T08:58:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "f496b5f27d58a8471f40a14bd31fdef3e83df415",
+			"url": "https://stackoverflow.com/questions/59711780/android-app-terminates-after-certain-time-when-minimized",
+			"ord_in_thread": 0,
+			"author": "Pritam Banerjee",
+			"published": "2020-01-13T08:58:00.000+02:00",
+			"title": "java - Android app terminates after certain time when minimized",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:13.000+02:00",
+			"text": "I have this app which parses SMS and then converts them into Audio. My app users usually minimize th..."
+		},
+		{
+			"thread": {
+				"uuid": "178dab0b046907f465e8596c157e7df7f4c7f8dc",
+				"url": "https://stackoverflow.com/questions/59711108/cant-load-data-to-combobox-c-sharp",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/c%23?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'c#' Questions - Stack Overflow",
+				"title": "sql - Can't Load Data to ComboBox C#",
+				"title_full": "sql - Can't Load Data to ComboBox C# - Stack Overflow",
+				"published": "2020-01-13T08:24:00.000+02:00",
+				"replies_count": 1,
+				"participants_count": 2,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "f26d05e62dbadbde3c4b90012d5d48dec50123b9",
+			"url": "https://stackoverflow.com/questions/59711108/cant-load-data-to-combobox-c-sharp#105574442",
+			"ord_in_thread": 1,
+			"author": "Jack J Jun - MSFT",
+			"published": "2020-01-13T08:30:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:27.001+02:00",
+			"text": "It seems that you mentioned that you want to create an Item, but I can't see the related code. can y..."
+		},
+		{
+			"thread": {
+				"uuid": "b83aea059fcaaa943f5211366b849ce1f545d4fa",
+				"url": "https://stackoverflow.com/questions/59711822/add-ldap-account-to-ms-outlook-programmaticaly",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/c%23?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'c#' Questions - Stack Overflow",
+				"title": "c# - Add LDAP account to MS Outlook programmaticaly",
+				"title_full": "c# - Add LDAP account to MS Outlook programmaticaly - Stack Overflow",
+				"published": "2020-01-13T08:59:00.000+02:00",
+				"replies_count": 0,
+				"participants_count": 1,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.023,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "b83aea059fcaaa943f5211366b849ce1f545d4fa",
+			"url": "https://stackoverflow.com/questions/59711822/add-ldap-account-to-ms-outlook-programmaticaly",
+			"ord_in_thread": 0,
+			"author": "Alexgamb",
+			"published": "2020-01-13T08:59:00.000+02:00",
+			"title": "c# - Add LDAP account to MS Outlook programmaticaly",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:30.004+02:00",
+			"text": "I use RDO library for Outlook.\nI added POP3 Account without problems. All fine. But i don't understa..."
+		},
+		{
+			"thread": {
+				"uuid": "2fd9f3ed93cbece9a946389d12e213160453d898",
+				"url": "https://stackoverflow.com/questions/59711152/disposing-all-child-controls-and-data-c-sharp",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/c%23?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'c#' Questions - Stack Overflow",
+				"title": "winforms - Disposing All Child Controls and Data - C#",
+				"title_full": "winforms - Disposing All Child Controls and Data - C# - Stack Overflow",
+				"published": "2020-01-13T07:49:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "cc5d4394fe2ae788f4963eb825c425996b5b8d99",
+			"url": "https://stackoverflow.com/questions/59711152/disposing-all-child-controls-and-data-c-sharp#105574330",
+			"ord_in_thread": 1,
+			"author": "Saif",
+			"published": "2020-01-13T08:23:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:36.000+02:00",
+			"text": "Clear just remove control from collection and cannot dispose.. what you need to do is to loop in all..."
+		},
+		{
+			"thread": {
+				"uuid": "2fd9f3ed93cbece9a946389d12e213160453d898",
+				"url": "https://stackoverflow.com/questions/59711152/disposing-all-child-controls-and-data-c-sharp",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/c%23?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'c#' Questions - Stack Overflow",
+				"title": "winforms - Disposing All Child Controls and Data - C#",
+				"title_full": "winforms - Disposing All Child Controls and Data - C# - Stack Overflow",
+				"published": "2020-01-13T07:49:00.000+02:00",
+				"replies_count": 2,
+				"participants_count": 3,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "276cd9469ddbda291053e731eb04bd16959173e8",
+			"url": "https://stackoverflow.com/questions/59711152/disposing-all-child-controls-and-data-c-sharp#answer-59711706",
+			"ord_in_thread": 2,
+			"author": "Athanasios Kataras",
+			"published": "2020-01-13T08:49:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:36.002+02:00",
+			"text": "https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/unmanaged?view=netframework-4.8\n..."
+		},
+		{
+			"thread": {
+				"uuid": "db70a3f0705e7f77583e9e09d729fd7dbc71092e",
+				"url": "https://stackoverflow.com/questions/59710825/username-auto-fill-in-login-page-after-register-success-redirect-to-login-in-a",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/c%23?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'c#' Questions - Stack Overflow",
+				"title": "c# - Username auto fill in Login Page after Register success (Redirect to Login) in asp.net mvc",
+				"title_full": "c# - Username auto fill in Login Page after Register success (Redirect to Login) in asp.net mvc - Stack Overflow",
+				"published": "2020-01-13T07:34:00.000+02:00",
+				"replies_count": 7,
+				"participants_count": 7,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.002,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "133f592a78bc6f191fe02b6d157d411d723c0399",
+			"url": "https://stackoverflow.com/questions/59710825/username-auto-fill-in-login-page-after-register-success-redirect-to-login-in-a#59710825",
+			"ord_in_thread": 3,
+			"author": "Anonymous",
+			"published": "2020-01-13T08:24:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:40.047+02:00",
+			"text": "I redirected to my login page after register for success. In fact, how can I carry my registered use..."
+		},
+		{
+			"thread": {
+				"uuid": "db70a3f0705e7f77583e9e09d729fd7dbc71092e",
+				"url": "https://stackoverflow.com/questions/59710825/username-auto-fill-in-login-page-after-register-success-redirect-to-login-in-a",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/c%23?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'c#' Questions - Stack Overflow",
+				"title": "c# - Username auto fill in Login Page after Register success (Redirect to Login) in asp.net mvc",
+				"title_full": "c# - Username auto fill in Login Page after Register success (Redirect to Login) in asp.net mvc - Stack Overflow",
+				"published": "2020-01-13T07:34:00.000+02:00",
+				"replies_count": 7,
+				"participants_count": 7,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.002,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "2fdfbeea781b5a87e70f5eb9f9b3afd44ed18dff",
+			"url": "https://stackoverflow.com/questions/59710825/username-auto-fill-in-login-page-after-register-success-redirect-to-login-in-a#105574526",
+			"ord_in_thread": 4,
+			"author": "AmirNorouzpour",
+			"published": "2020-01-13T08:35:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:40.051+02:00",
+			"text": "It may not be safe to fill the password on the login page. you can do login work (create a ticket or..."
+		},
+		{
+			"thread": {
+				"uuid": "db70a3f0705e7f77583e9e09d729fd7dbc71092e",
+				"url": "https://stackoverflow.com/questions/59710825/username-auto-fill-in-login-page-after-register-success-redirect-to-login-in-a",
+				"site_full": "stackoverflow.com",
+				"site": "stackoverflow.com",
+				"site_section": "https://stackoverflow.com/questions/tagged/c%23?sort=newest&pagesize=50",
+				"site_categories": [
+					"tech",
+					"non_standard_content",
+					"adult"
+				],
+				"section_title": "Newest 'c#' Questions - Stack Overflow",
+				"title": "c# - Username auto fill in Login Page after Register success (Redirect to Login) in asp.net mvc",
+				"title_full": "c# - Username auto fill in Login Page after Register success (Redirect to Login) in asp.net mvc - Stack Overflow",
+				"published": "2020-01-13T07:34:00.000+02:00",
+				"replies_count": 7,
+				"participants_count": 7,
+				"site_type": "discussions",
+				"country": "US",
+				"spam_score": 0.002,
+				"main_image": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded",
+				"performance_score": 0,
+				"social": {
+					"facebook": {
+						"likes": 0,
+						"comments": 0,
+						"shares": 0
+					},
+					"gplus": {
+						"shares": 0
+					},
+					"pinterest": {
+						"shares": 0
+					},
+					"linkedin": {
+						"shares": 0
+					},
+					"stumbledupon": {
+						"shares": 0
+					},
+					"vk": {
+						"shares": 0
+					}
+				}
+			},
+			"uuid": "8eb45c5fe953df04159f7c6447164e9037d880cb",
+			"url": "https://stackoverflow.com/questions/59710825/username-auto-fill-in-login-page-after-register-success-redirect-to-login-in-a#answer-59711573",
+			"ord_in_thread": 5,
+			"author": "Shivam Mishra",
+			"published": "2020-01-13T08:36:00.000+02:00",
+			"title": "",
+			"highlightText": "",
+			"highlightTitle": "",
+			"language": "english",
+			"crawled": "2020-01-13T09:00:41.003+02:00",
+			"text": "Here two ways commonly used for send data form one controller to another controller\nYou can pass dat..."
+		}
+	],
+	"totalResults": 341231
+}
